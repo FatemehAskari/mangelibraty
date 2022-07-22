@@ -1,0 +1,420 @@
+D:\AP\wpf-project\WPF\merge\WpfApp\WpfApp\obj\Debug\WpfApp.csproj.AssemblyReference.cache
+D:\AP\wpf-project\WPF\merge\WpfApp\WpfApp\obj\Debug\MainWindow.g.cs
+D:\AP\wpf-project\WPF\merge\WpfApp\WpfApp\obj\Debug\register.g.cs
+D:\AP\wpf-project\WPF\merge\WpfApp\WpfApp\obj\Debug\App.g.cs
+D:\AP\wpf-project\WPF\merge\WpfApp\WpfApp\obj\Debug\WpfApp_MarkupCompile.cache
+D:\AP\wpf-project\WPF\merge\WpfApp\WpfApp\obj\Debug\WpfApp_MarkupCompile.lref
+D:\AP\wpf-project\WPF\merge\WpfApp\WpfApp\bin\Debug\WpfApp.exe.config
+D:\AP\wpf-project\WPF\merge\WpfApp\WpfApp\bin\Debug\WpfApp.exe
+D:\AP\wpf-project\WPF\merge\WpfApp\WpfApp\bin\Debug\WpfApp.pdb
+D:\AP\wpf-project\WPF\merge\WpfApp\WpfApp\obj\Debug\Button.baml
+D:\AP\wpf-project\WPF\merge\WpfApp\WpfApp\obj\Debug\App.baml
+D:\AP\wpf-project\WPF\merge\WpfApp\WpfApp\obj\Debug\MainWindow.baml
+D:\AP\wpf-project\WPF\merge\WpfApp\WpfApp\obj\Debug\register.baml
+D:\AP\wpf-project\WPF\merge\WpfApp\WpfApp\obj\Debug\WpfApp.g.resources
+D:\AP\wpf-project\WPF\merge\WpfApp\WpfApp\obj\Debug\WpfApp.Properties.Resources.resources
+D:\AP\wpf-project\WPF\merge\WpfApp\WpfApp\obj\Debug\WpfApp.csproj.GenerateResource.cache
+D:\AP\wpf-project\WPF\merge\WpfApp\WpfApp\obj\Debug\WpfApp.csproj.CoreCompileInputs.cache
+D:\AP\wpf-project\WPF\merge\WpfApp\WpfApp\obj\Debug\WpfApp.exe
+D:\AP\wpf-project\WPF\merge\WpfApp\WpfApp\obj\Debug\WpfApp.pdb
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge\WpfApp\WpfApp\bin\Debug\WpfApp.exe.config
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge\WpfApp\WpfApp\bin\Debug\WpfApp.exe
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge\WpfApp\WpfApp\bin\Debug\WpfApp.pdb
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge\WpfApp\WpfApp\obj\Debug\WpfApp.csprojAssemblyReference.cache
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge\WpfApp\WpfApp\obj\Debug\Button.baml
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge\WpfApp\WpfApp\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge\WpfApp\WpfApp\obj\Debug\register.g.cs
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge\WpfApp\WpfApp\obj\Debug\App.g.cs
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge\WpfApp\WpfApp\obj\Debug\WpfApp_MarkupCompile.cache
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge\WpfApp\WpfApp\obj\Debug\WpfApp_MarkupCompile.lref
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge\WpfApp\WpfApp\obj\Debug\App.baml
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge\WpfApp\WpfApp\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge\WpfApp\WpfApp\obj\Debug\register.baml
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge\WpfApp\WpfApp\obj\Debug\WpfApp.g.resources
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge\WpfApp\WpfApp\obj\Debug\WpfApp.Properties.Resources.resources
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge\WpfApp\WpfApp\obj\Debug\WpfApp.csproj.GenerateResource.cache
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge\WpfApp\WpfApp\obj\Debug\WpfApp.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge\WpfApp\WpfApp\obj\Debug\WpfApp.exe
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge\WpfApp\WpfApp\obj\Debug\WpfApp.pdb
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge\WpfApp\WpfApp\obj\Debug\Admin.g.cs
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge\WpfApp\WpfApp\obj\Debug\Admin.baml
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge\WpfApp\WpfApp\obj\Debug\addB.g.cs
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge\WpfApp\WpfApp\obj\Debug\addB.baml
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge\WpfApp\WpfApp\obj\Debug\delete.g.cs
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge\WpfApp\WpfApp\obj\Debug\delete.baml
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge\WpfApp\WpfApp\obj\Debug\AddEmployee.g.cs
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge\WpfApp\WpfApp\obj\Debug\AddEmployee.baml
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge\WpfApp\WpfApp\obj\Debug\settleem.g.cs
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge\WpfApp\WpfApp\obj\Debug\settleem.baml
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge\WpfApp\WpfApp\obj\Debug\showbook.g.cs
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge\WpfApp\WpfApp\obj\Debug\showbook.baml
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge\WpfApp\WpfApp\obj\Debug\delemp.g.cs
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge\WpfApp\WpfApp\obj\Debug\delemp.baml
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge\WpfApp\WpfApp\obj\Debug\balanceA.g.cs
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge\WpfApp\WpfApp\obj\Debug\balanceA.baml
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge\WpfApp\WpfApp\obj\Debug\showEmployee.g.cs
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge\WpfApp\WpfApp\obj\Debug\showEmployee.baml
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge\WpfApp\WpfApp\obj\Debug\showbalance.g.cs
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge\WpfApp\WpfApp\obj\Debug\showbalance.baml
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge\WpfApp\WpfApp\obj\Debug\Member.g.cs
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge\WpfApp\WpfApp\obj\Debug\Member.baml
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge\WpfApp\WpfApp\obj\Debug\booksmem.g.cs
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge\WpfApp\WpfApp\obj\Debug\booksmem.baml
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge\WpfApp\WpfApp\obj\Debug\borrowbook.g.cs
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge\WpfApp\WpfApp\obj\Debug\borrowbook.baml
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge\WpfApp\WpfApp\obj\Debug\returnbook1.g.cs
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge\WpfApp\WpfApp\obj\Debug\returnbook1.baml
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge\WpfApp\WpfApp\obj\Debug\return22.g.cs
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge\WpfApp\WpfApp\obj\Debug\return22.baml
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge\WpfApp\WpfApp\obj\Debug\remain.g.cs
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge\WpfApp\WpfApp\obj\Debug\remain.baml
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge\WpfApp\WpfApp\obj\Debug\balancemem.g.cs
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge\WpfApp\WpfApp\obj\Debug\balancemem.baml
+C:\Users\PC\Desktop\merge\WpfApp\WpfApp\bin\Debug\WpfApp.exe.config
+C:\Users\PC\Desktop\merge\WpfApp\WpfApp\bin\Debug\WpfApp.exe
+C:\Users\PC\Desktop\merge\WpfApp\WpfApp\bin\Debug\WpfApp.pdb
+C:\Users\PC\Desktop\merge\WpfApp\WpfApp\obj\Debug\Button.baml
+C:\Users\PC\Desktop\merge\WpfApp\WpfApp\obj\Debug\addB.g.cs
+C:\Users\PC\Desktop\merge\WpfApp\WpfApp\obj\Debug\AddEmployee.g.cs
+C:\Users\PC\Desktop\merge\WpfApp\WpfApp\obj\Debug\Admin.g.cs
+C:\Users\PC\Desktop\merge\WpfApp\WpfApp\obj\Debug\balanceA.g.cs
+C:\Users\PC\Desktop\merge\WpfApp\WpfApp\obj\Debug\balancemem.g.cs
+C:\Users\PC\Desktop\merge\WpfApp\WpfApp\obj\Debug\booksmem.g.cs
+C:\Users\PC\Desktop\merge\WpfApp\WpfApp\obj\Debug\borrowbook.g.cs
+C:\Users\PC\Desktop\merge\WpfApp\WpfApp\obj\Debug\delemp.g.cs
+C:\Users\PC\Desktop\merge\WpfApp\WpfApp\obj\Debug\delete.g.cs
+C:\Users\PC\Desktop\merge\WpfApp\WpfApp\obj\Debug\MainWindow.g.cs
+C:\Users\PC\Desktop\merge\WpfApp\WpfApp\obj\Debug\Member.g.cs
+C:\Users\PC\Desktop\merge\WpfApp\WpfApp\obj\Debug\register.g.cs
+C:\Users\PC\Desktop\merge\WpfApp\WpfApp\obj\Debug\remain.g.cs
+C:\Users\PC\Desktop\merge\WpfApp\WpfApp\obj\Debug\return22.g.cs
+C:\Users\PC\Desktop\merge\WpfApp\WpfApp\obj\Debug\returnbook1.g.cs
+C:\Users\PC\Desktop\merge\WpfApp\WpfApp\obj\Debug\settleem.g.cs
+C:\Users\PC\Desktop\merge\WpfApp\WpfApp\obj\Debug\showbalance.g.cs
+C:\Users\PC\Desktop\merge\WpfApp\WpfApp\obj\Debug\showbook.g.cs
+C:\Users\PC\Desktop\merge\WpfApp\WpfApp\obj\Debug\showEmployee.g.cs
+C:\Users\PC\Desktop\merge\WpfApp\WpfApp\obj\Debug\App.g.cs
+C:\Users\PC\Desktop\merge\WpfApp\WpfApp\obj\Debug\WpfApp_MarkupCompile.cache
+C:\Users\PC\Desktop\merge\WpfApp\WpfApp\obj\Debug\WpfApp_MarkupCompile.lref
+C:\Users\PC\Desktop\merge\WpfApp\WpfApp\obj\Debug\App.baml
+C:\Users\PC\Desktop\merge\WpfApp\WpfApp\obj\Debug\addB.baml
+C:\Users\PC\Desktop\merge\WpfApp\WpfApp\obj\Debug\AddEmployee.baml
+C:\Users\PC\Desktop\merge\WpfApp\WpfApp\obj\Debug\Admin.baml
+C:\Users\PC\Desktop\merge\WpfApp\WpfApp\obj\Debug\balanceA.baml
+C:\Users\PC\Desktop\merge\WpfApp\WpfApp\obj\Debug\balancemem.baml
+C:\Users\PC\Desktop\merge\WpfApp\WpfApp\obj\Debug\booksmem.baml
+C:\Users\PC\Desktop\merge\WpfApp\WpfApp\obj\Debug\borrowbook.baml
+C:\Users\PC\Desktop\merge\WpfApp\WpfApp\obj\Debug\delemp.baml
+C:\Users\PC\Desktop\merge\WpfApp\WpfApp\obj\Debug\delete.baml
+C:\Users\PC\Desktop\merge\WpfApp\WpfApp\obj\Debug\MainWindow.baml
+C:\Users\PC\Desktop\merge\WpfApp\WpfApp\obj\Debug\Member.baml
+C:\Users\PC\Desktop\merge\WpfApp\WpfApp\obj\Debug\register.baml
+C:\Users\PC\Desktop\merge\WpfApp\WpfApp\obj\Debug\remain.baml
+C:\Users\PC\Desktop\merge\WpfApp\WpfApp\obj\Debug\return22.baml
+C:\Users\PC\Desktop\merge\WpfApp\WpfApp\obj\Debug\returnbook1.baml
+C:\Users\PC\Desktop\merge\WpfApp\WpfApp\obj\Debug\settleem.baml
+C:\Users\PC\Desktop\merge\WpfApp\WpfApp\obj\Debug\showbalance.baml
+C:\Users\PC\Desktop\merge\WpfApp\WpfApp\obj\Debug\showbook.baml
+C:\Users\PC\Desktop\merge\WpfApp\WpfApp\obj\Debug\showEmployee.baml
+C:\Users\PC\Desktop\merge\WpfApp\WpfApp\obj\Debug\WpfApp.g.resources
+C:\Users\PC\Desktop\merge\WpfApp\WpfApp\obj\Debug\WpfApp.Properties.Resources.resources
+C:\Users\PC\Desktop\merge\WpfApp\WpfApp\obj\Debug\WpfApp.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\merge\WpfApp\WpfApp\obj\Debug\WpfApp.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\merge\WpfApp\WpfApp\obj\Debug\WpfApp.exe
+C:\Users\PC\Desktop\merge\WpfApp\WpfApp\obj\Debug\WpfApp.pdb
+C:\Users\PC\Desktop\merge\WpfApp\WpfApp\obj\Debug\Borrowed.g.cs
+C:\Users\PC\Desktop\merge\WpfApp\WpfApp\obj\Debug\DelayedPay.g.cs
+C:\Users\PC\Desktop\merge\WpfApp\WpfApp\obj\Debug\DelayedReturn.g.cs
+C:\Users\PC\Desktop\merge\WpfApp\WpfApp\obj\Debug\EditEmployeeInfo.g.cs
+C:\Users\PC\Desktop\merge\WpfApp\WpfApp\obj\Debug\Employee.g.cs
+C:\Users\PC\Desktop\merge\WpfApp\WpfApp\obj\Debug\MemberList.g.cs
+C:\Users\PC\Desktop\merge\WpfApp\WpfApp\obj\Debug\ShowAvailableBooks.g.cs
+C:\Users\PC\Desktop\merge\WpfApp\WpfApp\obj\Debug\ShowEmployeeBalance.g.cs
+C:\Users\PC\Desktop\merge\WpfApp\WpfApp\obj\Debug\Borrowed.baml
+C:\Users\PC\Desktop\merge\WpfApp\WpfApp\obj\Debug\DelayedPay.baml
+C:\Users\PC\Desktop\merge\WpfApp\WpfApp\obj\Debug\DelayedReturn.baml
+C:\Users\PC\Desktop\merge\WpfApp\WpfApp\obj\Debug\EditEmployeeInfo.baml
+C:\Users\PC\Desktop\merge\WpfApp\WpfApp\obj\Debug\Employee.baml
+C:\Users\PC\Desktop\merge\WpfApp\WpfApp\obj\Debug\MemberList.baml
+C:\Users\PC\Desktop\merge\WpfApp\WpfApp\obj\Debug\ShowAvailableBooks.baml
+C:\Users\PC\Desktop\merge\WpfApp\WpfApp\obj\Debug\ShowEmployeeBalance.baml
+C:\Users\PC\Desktop\merge\WpfApp\WpfApp\obj\Debug\WpfApp.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\New folder (3)\wpf\merge\WpfApp\WpfApp\bin\Debug\WpfApp.exe.config
+C:\Users\user\Desktop\New folder (3)\wpf\merge\WpfApp\WpfApp\bin\Debug\WpfApp.exe
+C:\Users\user\Desktop\New folder (3)\wpf\merge\WpfApp\WpfApp\bin\Debug\WpfApp.pdb
+C:\Users\user\Desktop\New folder (3)\wpf\merge\WpfApp\WpfApp\obj\Debug\WpfApp.csprojAssemblyReference.cache
+C:\Users\user\Desktop\New folder (3)\wpf\merge\WpfApp\WpfApp\obj\Debug\Button.baml
+C:\Users\user\Desktop\New folder (3)\wpf\merge\WpfApp\WpfApp\obj\Debug\addB.g.cs
+C:\Users\user\Desktop\New folder (3)\wpf\merge\WpfApp\WpfApp\obj\Debug\AddEmployee.g.cs
+C:\Users\user\Desktop\New folder (3)\wpf\merge\WpfApp\WpfApp\obj\Debug\Admin.g.cs
+C:\Users\user\Desktop\New folder (3)\wpf\merge\WpfApp\WpfApp\obj\Debug\balanceA.g.cs
+C:\Users\user\Desktop\New folder (3)\wpf\merge\WpfApp\WpfApp\obj\Debug\balancemem.g.cs
+C:\Users\user\Desktop\New folder (3)\wpf\merge\WpfApp\WpfApp\obj\Debug\booksmem.g.cs
+C:\Users\user\Desktop\New folder (3)\wpf\merge\WpfApp\WpfApp\obj\Debug\borrowbook.g.cs
+C:\Users\user\Desktop\New folder (3)\wpf\merge\WpfApp\WpfApp\obj\Debug\Borrowed.g.cs
+C:\Users\user\Desktop\New folder (3)\wpf\merge\WpfApp\WpfApp\obj\Debug\DelayedPay.g.cs
+C:\Users\user\Desktop\New folder (3)\wpf\merge\WpfApp\WpfApp\obj\Debug\DelayedReturn.g.cs
+C:\Users\user\Desktop\New folder (3)\wpf\merge\WpfApp\WpfApp\obj\Debug\delemp.g.cs
+C:\Users\user\Desktop\New folder (3)\wpf\merge\WpfApp\WpfApp\obj\Debug\delete.g.cs
+C:\Users\user\Desktop\New folder (3)\wpf\merge\WpfApp\WpfApp\obj\Debug\EditEmployeeInfo.g.cs
+C:\Users\user\Desktop\New folder (3)\wpf\merge\WpfApp\WpfApp\obj\Debug\Employee.g.cs
+C:\Users\user\Desktop\New folder (3)\wpf\merge\WpfApp\WpfApp\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\New folder (3)\wpf\merge\WpfApp\WpfApp\obj\Debug\Member.g.cs
+C:\Users\user\Desktop\New folder (3)\wpf\merge\WpfApp\WpfApp\obj\Debug\MemberList.g.cs
+C:\Users\user\Desktop\New folder (3)\wpf\merge\WpfApp\WpfApp\obj\Debug\register.g.cs
+C:\Users\user\Desktop\New folder (3)\wpf\merge\WpfApp\WpfApp\obj\Debug\remain.g.cs
+C:\Users\user\Desktop\New folder (3)\wpf\merge\WpfApp\WpfApp\obj\Debug\return22.g.cs
+C:\Users\user\Desktop\New folder (3)\wpf\merge\WpfApp\WpfApp\obj\Debug\returnbook1.g.cs
+C:\Users\user\Desktop\New folder (3)\wpf\merge\WpfApp\WpfApp\obj\Debug\settleem.g.cs
+C:\Users\user\Desktop\New folder (3)\wpf\merge\WpfApp\WpfApp\obj\Debug\ShowAvailableBooks.g.cs
+C:\Users\user\Desktop\New folder (3)\wpf\merge\WpfApp\WpfApp\obj\Debug\showbalance.g.cs
+C:\Users\user\Desktop\New folder (3)\wpf\merge\WpfApp\WpfApp\obj\Debug\showbook.g.cs
+C:\Users\user\Desktop\New folder (3)\wpf\merge\WpfApp\WpfApp\obj\Debug\showEmployee.g.cs
+C:\Users\user\Desktop\New folder (3)\wpf\merge\WpfApp\WpfApp\obj\Debug\ShowEmployeeBalance.g.cs
+C:\Users\user\Desktop\New folder (3)\wpf\merge\WpfApp\WpfApp\obj\Debug\App.g.cs
+C:\Users\user\Desktop\New folder (3)\wpf\merge\WpfApp\WpfApp\obj\Debug\WpfApp_MarkupCompile.cache
+C:\Users\user\Desktop\New folder (3)\wpf\merge\WpfApp\WpfApp\obj\Debug\WpfApp_MarkupCompile.lref
+C:\Users\user\Desktop\New folder (3)\wpf\merge\WpfApp\WpfApp\obj\Debug\App.baml
+C:\Users\user\Desktop\New folder (3)\wpf\merge\WpfApp\WpfApp\obj\Debug\addB.baml
+C:\Users\user\Desktop\New folder (3)\wpf\merge\WpfApp\WpfApp\obj\Debug\AddEmployee.baml
+C:\Users\user\Desktop\New folder (3)\wpf\merge\WpfApp\WpfApp\obj\Debug\Admin.baml
+C:\Users\user\Desktop\New folder (3)\wpf\merge\WpfApp\WpfApp\obj\Debug\balanceA.baml
+C:\Users\user\Desktop\New folder (3)\wpf\merge\WpfApp\WpfApp\obj\Debug\balancemem.baml
+C:\Users\user\Desktop\New folder (3)\wpf\merge\WpfApp\WpfApp\obj\Debug\booksmem.baml
+C:\Users\user\Desktop\New folder (3)\wpf\merge\WpfApp\WpfApp\obj\Debug\borrowbook.baml
+C:\Users\user\Desktop\New folder (3)\wpf\merge\WpfApp\WpfApp\obj\Debug\Borrowed.baml
+C:\Users\user\Desktop\New folder (3)\wpf\merge\WpfApp\WpfApp\obj\Debug\DelayedPay.baml
+C:\Users\user\Desktop\New folder (3)\wpf\merge\WpfApp\WpfApp\obj\Debug\DelayedReturn.baml
+C:\Users\user\Desktop\New folder (3)\wpf\merge\WpfApp\WpfApp\obj\Debug\delemp.baml
+C:\Users\user\Desktop\New folder (3)\wpf\merge\WpfApp\WpfApp\obj\Debug\delete.baml
+C:\Users\user\Desktop\New folder (3)\wpf\merge\WpfApp\WpfApp\obj\Debug\EditEmployeeInfo.baml
+C:\Users\user\Desktop\New folder (3)\wpf\merge\WpfApp\WpfApp\obj\Debug\Employee.baml
+C:\Users\user\Desktop\New folder (3)\wpf\merge\WpfApp\WpfApp\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\New folder (3)\wpf\merge\WpfApp\WpfApp\obj\Debug\Member.baml
+C:\Users\user\Desktop\New folder (3)\wpf\merge\WpfApp\WpfApp\obj\Debug\MemberList.baml
+C:\Users\user\Desktop\New folder (3)\wpf\merge\WpfApp\WpfApp\obj\Debug\register.baml
+C:\Users\user\Desktop\New folder (3)\wpf\merge\WpfApp\WpfApp\obj\Debug\remain.baml
+C:\Users\user\Desktop\New folder (3)\wpf\merge\WpfApp\WpfApp\obj\Debug\return22.baml
+C:\Users\user\Desktop\New folder (3)\wpf\merge\WpfApp\WpfApp\obj\Debug\returnbook1.baml
+C:\Users\user\Desktop\New folder (3)\wpf\merge\WpfApp\WpfApp\obj\Debug\settleem.baml
+C:\Users\user\Desktop\New folder (3)\wpf\merge\WpfApp\WpfApp\obj\Debug\ShowAvailableBooks.baml
+C:\Users\user\Desktop\New folder (3)\wpf\merge\WpfApp\WpfApp\obj\Debug\showbalance.baml
+C:\Users\user\Desktop\New folder (3)\wpf\merge\WpfApp\WpfApp\obj\Debug\showbook.baml
+C:\Users\user\Desktop\New folder (3)\wpf\merge\WpfApp\WpfApp\obj\Debug\showEmployee.baml
+C:\Users\user\Desktop\New folder (3)\wpf\merge\WpfApp\WpfApp\obj\Debug\ShowEmployeeBalance.baml
+C:\Users\user\Desktop\New folder (3)\wpf\merge\WpfApp\WpfApp\obj\Debug\WpfApp.g.resources
+C:\Users\user\Desktop\New folder (3)\wpf\merge\WpfApp\WpfApp\obj\Debug\WpfApp.Properties.Resources.resources
+C:\Users\user\Desktop\New folder (3)\wpf\merge\WpfApp\WpfApp\obj\Debug\WpfApp.csproj.GenerateResource.cache
+C:\Users\user\Desktop\New folder (3)\wpf\merge\WpfApp\WpfApp\obj\Debug\WpfApp.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\New folder (3)\wpf\merge\WpfApp\WpfApp\obj\Debug\WpfApp.exe
+C:\Users\user\Desktop\New folder (3)\wpf\merge\WpfApp\WpfApp\obj\Debug\WpfApp.pdb
+C:\Users\user\Desktop\merge\WpfApp\WpfApp\bin\Debug\WpfApp.exe.config
+C:\Users\user\Desktop\merge\WpfApp\WpfApp\bin\Debug\WpfApp.exe
+C:\Users\user\Desktop\merge\WpfApp\WpfApp\bin\Debug\WpfApp.pdb
+C:\Users\user\Desktop\merge\WpfApp\WpfApp\obj\Debug\WpfApp.csprojAssemblyReference.cache
+C:\Users\user\Desktop\merge\WpfApp\WpfApp\obj\Debug\Button.baml
+C:\Users\user\Desktop\merge\WpfApp\WpfApp\obj\Debug\addB.g.cs
+C:\Users\user\Desktop\merge\WpfApp\WpfApp\obj\Debug\AddEmployee.g.cs
+C:\Users\user\Desktop\merge\WpfApp\WpfApp\obj\Debug\Admin.g.cs
+C:\Users\user\Desktop\merge\WpfApp\WpfApp\obj\Debug\balanceA.g.cs
+C:\Users\user\Desktop\merge\WpfApp\WpfApp\obj\Debug\balancemem.g.cs
+C:\Users\user\Desktop\merge\WpfApp\WpfApp\obj\Debug\booksmem.g.cs
+C:\Users\user\Desktop\merge\WpfApp\WpfApp\obj\Debug\borrowbook.g.cs
+C:\Users\user\Desktop\merge\WpfApp\WpfApp\obj\Debug\Borrowed.g.cs
+C:\Users\user\Desktop\merge\WpfApp\WpfApp\obj\Debug\DelayedPay.g.cs
+C:\Users\user\Desktop\merge\WpfApp\WpfApp\obj\Debug\DelayedReturn.g.cs
+C:\Users\user\Desktop\merge\WpfApp\WpfApp\obj\Debug\delemp.g.cs
+C:\Users\user\Desktop\merge\WpfApp\WpfApp\obj\Debug\delete.g.cs
+C:\Users\user\Desktop\merge\WpfApp\WpfApp\obj\Debug\EditEmployeeInfo.g.cs
+C:\Users\user\Desktop\merge\WpfApp\WpfApp\obj\Debug\Employee.g.cs
+C:\Users\user\Desktop\merge\WpfApp\WpfApp\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\merge\WpfApp\WpfApp\obj\Debug\Member.g.cs
+C:\Users\user\Desktop\merge\WpfApp\WpfApp\obj\Debug\MemberList.g.cs
+C:\Users\user\Desktop\merge\WpfApp\WpfApp\obj\Debug\register.g.cs
+C:\Users\user\Desktop\merge\WpfApp\WpfApp\obj\Debug\remain.g.cs
+C:\Users\user\Desktop\merge\WpfApp\WpfApp\obj\Debug\return22.g.cs
+C:\Users\user\Desktop\merge\WpfApp\WpfApp\obj\Debug\returnbook1.g.cs
+C:\Users\user\Desktop\merge\WpfApp\WpfApp\obj\Debug\settleem.g.cs
+C:\Users\user\Desktop\merge\WpfApp\WpfApp\obj\Debug\ShowAvailableBooks.g.cs
+C:\Users\user\Desktop\merge\WpfApp\WpfApp\obj\Debug\showbalance.g.cs
+C:\Users\user\Desktop\merge\WpfApp\WpfApp\obj\Debug\showbook.g.cs
+C:\Users\user\Desktop\merge\WpfApp\WpfApp\obj\Debug\showEmployee.g.cs
+C:\Users\user\Desktop\merge\WpfApp\WpfApp\obj\Debug\ShowEmployeeBalance.g.cs
+C:\Users\user\Desktop\merge\WpfApp\WpfApp\obj\Debug\App.g.cs
+C:\Users\user\Desktop\merge\WpfApp\WpfApp\obj\Debug\WpfApp_MarkupCompile.cache
+C:\Users\user\Desktop\merge\WpfApp\WpfApp\obj\Debug\WpfApp_MarkupCompile.lref
+C:\Users\user\Desktop\merge\WpfApp\WpfApp\obj\Debug\App.baml
+C:\Users\user\Desktop\merge\WpfApp\WpfApp\obj\Debug\addB.baml
+C:\Users\user\Desktop\merge\WpfApp\WpfApp\obj\Debug\AddEmployee.baml
+C:\Users\user\Desktop\merge\WpfApp\WpfApp\obj\Debug\Admin.baml
+C:\Users\user\Desktop\merge\WpfApp\WpfApp\obj\Debug\balanceA.baml
+C:\Users\user\Desktop\merge\WpfApp\WpfApp\obj\Debug\balancemem.baml
+C:\Users\user\Desktop\merge\WpfApp\WpfApp\obj\Debug\booksmem.baml
+C:\Users\user\Desktop\merge\WpfApp\WpfApp\obj\Debug\borrowbook.baml
+C:\Users\user\Desktop\merge\WpfApp\WpfApp\obj\Debug\Borrowed.baml
+C:\Users\user\Desktop\merge\WpfApp\WpfApp\obj\Debug\DelayedPay.baml
+C:\Users\user\Desktop\merge\WpfApp\WpfApp\obj\Debug\DelayedReturn.baml
+C:\Users\user\Desktop\merge\WpfApp\WpfApp\obj\Debug\delemp.baml
+C:\Users\user\Desktop\merge\WpfApp\WpfApp\obj\Debug\delete.baml
+C:\Users\user\Desktop\merge\WpfApp\WpfApp\obj\Debug\EditEmployeeInfo.baml
+C:\Users\user\Desktop\merge\WpfApp\WpfApp\obj\Debug\Employee.baml
+C:\Users\user\Desktop\merge\WpfApp\WpfApp\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\merge\WpfApp\WpfApp\obj\Debug\Member.baml
+C:\Users\user\Desktop\merge\WpfApp\WpfApp\obj\Debug\MemberList.baml
+C:\Users\user\Desktop\merge\WpfApp\WpfApp\obj\Debug\register.baml
+C:\Users\user\Desktop\merge\WpfApp\WpfApp\obj\Debug\remain.baml
+C:\Users\user\Desktop\merge\WpfApp\WpfApp\obj\Debug\return22.baml
+C:\Users\user\Desktop\merge\WpfApp\WpfApp\obj\Debug\returnbook1.baml
+C:\Users\user\Desktop\merge\WpfApp\WpfApp\obj\Debug\settleem.baml
+C:\Users\user\Desktop\merge\WpfApp\WpfApp\obj\Debug\ShowAvailableBooks.baml
+C:\Users\user\Desktop\merge\WpfApp\WpfApp\obj\Debug\showbalance.baml
+C:\Users\user\Desktop\merge\WpfApp\WpfApp\obj\Debug\showbook.baml
+C:\Users\user\Desktop\merge\WpfApp\WpfApp\obj\Debug\showEmployee.baml
+C:\Users\user\Desktop\merge\WpfApp\WpfApp\obj\Debug\ShowEmployeeBalance.baml
+C:\Users\user\Desktop\merge\WpfApp\WpfApp\obj\Debug\WpfApp.g.resources
+C:\Users\user\Desktop\merge\WpfApp\WpfApp\obj\Debug\WpfApp.Properties.Resources.resources
+C:\Users\user\Desktop\merge\WpfApp\WpfApp\obj\Debug\WpfApp.csproj.GenerateResource.cache
+C:\Users\user\Desktop\merge\WpfApp\WpfApp\obj\Debug\WpfApp.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\merge\WpfApp\WpfApp\obj\Debug\WpfApp.exe
+C:\Users\user\Desktop\merge\WpfApp\WpfApp\obj\Debug\WpfApp.pdb
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge11\WpfApp\WpfApp\bin\Debug\WpfApp.exe.config
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge11\WpfApp\WpfApp\bin\Debug\WpfApp.exe
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge11\WpfApp\WpfApp\bin\Debug\WpfApp.pdb
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge11\WpfApp\WpfApp\obj\Debug\WpfApp.csprojAssemblyReference.cache
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge11\WpfApp\WpfApp\obj\Debug\Button.baml
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge11\WpfApp\WpfApp\obj\Debug\addB.g.cs
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge11\WpfApp\WpfApp\obj\Debug\AddEmployee.g.cs
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge11\WpfApp\WpfApp\obj\Debug\Admin.g.cs
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge11\WpfApp\WpfApp\obj\Debug\balanceA.g.cs
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge11\WpfApp\WpfApp\obj\Debug\balancemem.g.cs
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge11\WpfApp\WpfApp\obj\Debug\booksmem.g.cs
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge11\WpfApp\WpfApp\obj\Debug\borrowbook.g.cs
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge11\WpfApp\WpfApp\obj\Debug\Borrowed.g.cs
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge11\WpfApp\WpfApp\obj\Debug\DelayedPay.g.cs
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge11\WpfApp\WpfApp\obj\Debug\DelayedReturn.g.cs
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge11\WpfApp\WpfApp\obj\Debug\delemp.g.cs
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge11\WpfApp\WpfApp\obj\Debug\delete.g.cs
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge11\WpfApp\WpfApp\obj\Debug\EditEmployeeInfo.g.cs
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge11\WpfApp\WpfApp\obj\Debug\Employee.g.cs
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge11\WpfApp\WpfApp\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge11\WpfApp\WpfApp\obj\Debug\Member.g.cs
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge11\WpfApp\WpfApp\obj\Debug\MemberList.g.cs
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge11\WpfApp\WpfApp\obj\Debug\register.g.cs
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge11\WpfApp\WpfApp\obj\Debug\remain.g.cs
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge11\WpfApp\WpfApp\obj\Debug\return22.g.cs
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge11\WpfApp\WpfApp\obj\Debug\returnbook1.g.cs
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge11\WpfApp\WpfApp\obj\Debug\settleem.g.cs
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge11\WpfApp\WpfApp\obj\Debug\ShowAvailableBooks.g.cs
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge11\WpfApp\WpfApp\obj\Debug\showbalance.g.cs
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge11\WpfApp\WpfApp\obj\Debug\showbook.g.cs
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge11\WpfApp\WpfApp\obj\Debug\showEmployee.g.cs
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge11\WpfApp\WpfApp\obj\Debug\ShowEmployeeBalance.g.cs
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge11\WpfApp\WpfApp\obj\Debug\App.g.cs
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge11\WpfApp\WpfApp\obj\Debug\WpfApp_MarkupCompile.cache
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge11\WpfApp\WpfApp\obj\Debug\WpfApp_MarkupCompile.lref
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge11\WpfApp\WpfApp\obj\Debug\App.baml
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge11\WpfApp\WpfApp\obj\Debug\addB.baml
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge11\WpfApp\WpfApp\obj\Debug\AddEmployee.baml
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge11\WpfApp\WpfApp\obj\Debug\Admin.baml
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge11\WpfApp\WpfApp\obj\Debug\balanceA.baml
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge11\WpfApp\WpfApp\obj\Debug\balancemem.baml
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge11\WpfApp\WpfApp\obj\Debug\booksmem.baml
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge11\WpfApp\WpfApp\obj\Debug\borrowbook.baml
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge11\WpfApp\WpfApp\obj\Debug\Borrowed.baml
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge11\WpfApp\WpfApp\obj\Debug\DelayedPay.baml
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge11\WpfApp\WpfApp\obj\Debug\DelayedReturn.baml
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge11\WpfApp\WpfApp\obj\Debug\delemp.baml
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge11\WpfApp\WpfApp\obj\Debug\delete.baml
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge11\WpfApp\WpfApp\obj\Debug\EditEmployeeInfo.baml
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge11\WpfApp\WpfApp\obj\Debug\Employee.baml
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge11\WpfApp\WpfApp\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge11\WpfApp\WpfApp\obj\Debug\Member.baml
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge11\WpfApp\WpfApp\obj\Debug\MemberList.baml
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge11\WpfApp\WpfApp\obj\Debug\register.baml
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge11\WpfApp\WpfApp\obj\Debug\remain.baml
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge11\WpfApp\WpfApp\obj\Debug\return22.baml
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge11\WpfApp\WpfApp\obj\Debug\returnbook1.baml
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge11\WpfApp\WpfApp\obj\Debug\settleem.baml
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge11\WpfApp\WpfApp\obj\Debug\ShowAvailableBooks.baml
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge11\WpfApp\WpfApp\obj\Debug\showbalance.baml
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge11\WpfApp\WpfApp\obj\Debug\showbook.baml
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge11\WpfApp\WpfApp\obj\Debug\showEmployee.baml
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge11\WpfApp\WpfApp\obj\Debug\ShowEmployeeBalance.baml
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge11\WpfApp\WpfApp\obj\Debug\WpfApp.g.resources
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge11\WpfApp\WpfApp\obj\Debug\WpfApp.Properties.Resources.resources
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge11\WpfApp\WpfApp\obj\Debug\WpfApp.csproj.GenerateResource.cache
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge11\WpfApp\WpfApp\obj\Debug\WpfApp.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge11\WpfApp\WpfApp\obj\Debug\WpfApp.exe
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge11\WpfApp\WpfApp\obj\Debug\WpfApp.pdb
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge11\WpfApp\WpfApp\obj\Debug\editmember.g.cs
+C:\Users\user\Desktop\FatemehUni\projectWPF\merge11\WpfApp\WpfApp\obj\Debug\editmember.baml
+C:\Users\PC\Desktop\merge11\WpfApp\WpfApp\bin\Debug\WpfApp.exe.config
+C:\Users\PC\Desktop\merge11\WpfApp\WpfApp\bin\Debug\WpfApp.exe
+C:\Users\PC\Desktop\merge11\WpfApp\WpfApp\bin\Debug\WpfApp.pdb
+C:\Users\PC\Desktop\merge11\WpfApp\WpfApp\obj\Debug\Button.baml
+C:\Users\PC\Desktop\merge11\WpfApp\WpfApp\obj\Debug\addB.g.cs
+C:\Users\PC\Desktop\merge11\WpfApp\WpfApp\obj\Debug\AddEmployee.g.cs
+C:\Users\PC\Desktop\merge11\WpfApp\WpfApp\obj\Debug\Admin.g.cs
+C:\Users\PC\Desktop\merge11\WpfApp\WpfApp\obj\Debug\balanceA.g.cs
+C:\Users\PC\Desktop\merge11\WpfApp\WpfApp\obj\Debug\balancemem.g.cs
+C:\Users\PC\Desktop\merge11\WpfApp\WpfApp\obj\Debug\booksmem.g.cs
+C:\Users\PC\Desktop\merge11\WpfApp\WpfApp\obj\Debug\borrowbook.g.cs
+C:\Users\PC\Desktop\merge11\WpfApp\WpfApp\obj\Debug\Borrowed.g.cs
+C:\Users\PC\Desktop\merge11\WpfApp\WpfApp\obj\Debug\DelayedPay.g.cs
+C:\Users\PC\Desktop\merge11\WpfApp\WpfApp\obj\Debug\DelayedReturn.g.cs
+C:\Users\PC\Desktop\merge11\WpfApp\WpfApp\obj\Debug\delemp.g.cs
+C:\Users\PC\Desktop\merge11\WpfApp\WpfApp\obj\Debug\delete.g.cs
+C:\Users\PC\Desktop\merge11\WpfApp\WpfApp\obj\Debug\EditEmployeeInfo.g.cs
+C:\Users\PC\Desktop\merge11\WpfApp\WpfApp\obj\Debug\editmember.g.cs
+C:\Users\PC\Desktop\merge11\WpfApp\WpfApp\obj\Debug\Employee.g.cs
+C:\Users\PC\Desktop\merge11\WpfApp\WpfApp\obj\Debug\MainWindow.g.cs
+C:\Users\PC\Desktop\merge11\WpfApp\WpfApp\obj\Debug\Member.g.cs
+C:\Users\PC\Desktop\merge11\WpfApp\WpfApp\obj\Debug\MemberList.g.cs
+C:\Users\PC\Desktop\merge11\WpfApp\WpfApp\obj\Debug\register.g.cs
+C:\Users\PC\Desktop\merge11\WpfApp\WpfApp\obj\Debug\remain.g.cs
+C:\Users\PC\Desktop\merge11\WpfApp\WpfApp\obj\Debug\return22.g.cs
+C:\Users\PC\Desktop\merge11\WpfApp\WpfApp\obj\Debug\returnbook1.g.cs
+C:\Users\PC\Desktop\merge11\WpfApp\WpfApp\obj\Debug\settleem.g.cs
+C:\Users\PC\Desktop\merge11\WpfApp\WpfApp\obj\Debug\ShowAvailableBooks.g.cs
+C:\Users\PC\Desktop\merge11\WpfApp\WpfApp\obj\Debug\showbalance.g.cs
+C:\Users\PC\Desktop\merge11\WpfApp\WpfApp\obj\Debug\showbook.g.cs
+C:\Users\PC\Desktop\merge11\WpfApp\WpfApp\obj\Debug\showEmployee.g.cs
+C:\Users\PC\Desktop\merge11\WpfApp\WpfApp\obj\Debug\ShowEmployeeBalance.g.cs
+C:\Users\PC\Desktop\merge11\WpfApp\WpfApp\obj\Debug\App.g.cs
+C:\Users\PC\Desktop\merge11\WpfApp\WpfApp\obj\Debug\WpfApp_MarkupCompile.cache
+C:\Users\PC\Desktop\merge11\WpfApp\WpfApp\obj\Debug\WpfApp_MarkupCompile.lref
+C:\Users\PC\Desktop\merge11\WpfApp\WpfApp\obj\Debug\App.baml
+C:\Users\PC\Desktop\merge11\WpfApp\WpfApp\obj\Debug\addB.baml
+C:\Users\PC\Desktop\merge11\WpfApp\WpfApp\obj\Debug\AddEmployee.baml
+C:\Users\PC\Desktop\merge11\WpfApp\WpfApp\obj\Debug\Admin.baml
+C:\Users\PC\Desktop\merge11\WpfApp\WpfApp\obj\Debug\balanceA.baml
+C:\Users\PC\Desktop\merge11\WpfApp\WpfApp\obj\Debug\balancemem.baml
+C:\Users\PC\Desktop\merge11\WpfApp\WpfApp\obj\Debug\booksmem.baml
+C:\Users\PC\Desktop\merge11\WpfApp\WpfApp\obj\Debug\borrowbook.baml
+C:\Users\PC\Desktop\merge11\WpfApp\WpfApp\obj\Debug\Borrowed.baml
+C:\Users\PC\Desktop\merge11\WpfApp\WpfApp\obj\Debug\DelayedPay.baml
+C:\Users\PC\Desktop\merge11\WpfApp\WpfApp\obj\Debug\DelayedReturn.baml
+C:\Users\PC\Desktop\merge11\WpfApp\WpfApp\obj\Debug\delemp.baml
+C:\Users\PC\Desktop\merge11\WpfApp\WpfApp\obj\Debug\delete.baml
+C:\Users\PC\Desktop\merge11\WpfApp\WpfApp\obj\Debug\EditEmployeeInfo.baml
+C:\Users\PC\Desktop\merge11\WpfApp\WpfApp\obj\Debug\editmember.baml
+C:\Users\PC\Desktop\merge11\WpfApp\WpfApp\obj\Debug\Employee.baml
+C:\Users\PC\Desktop\merge11\WpfApp\WpfApp\obj\Debug\MainWindow.baml
+C:\Users\PC\Desktop\merge11\WpfApp\WpfApp\obj\Debug\Member.baml
+C:\Users\PC\Desktop\merge11\WpfApp\WpfApp\obj\Debug\MemberList.baml
+C:\Users\PC\Desktop\merge11\WpfApp\WpfApp\obj\Debug\register.baml
+C:\Users\PC\Desktop\merge11\WpfApp\WpfApp\obj\Debug\remain.baml
+C:\Users\PC\Desktop\merge11\WpfApp\WpfApp\obj\Debug\return22.baml
+C:\Users\PC\Desktop\merge11\WpfApp\WpfApp\obj\Debug\returnbook1.baml
+C:\Users\PC\Desktop\merge11\WpfApp\WpfApp\obj\Debug\settleem.baml
+C:\Users\PC\Desktop\merge11\WpfApp\WpfApp\obj\Debug\ShowAvailableBooks.baml
+C:\Users\PC\Desktop\merge11\WpfApp\WpfApp\obj\Debug\showbalance.baml
+C:\Users\PC\Desktop\merge11\WpfApp\WpfApp\obj\Debug\showbook.baml
+C:\Users\PC\Desktop\merge11\WpfApp\WpfApp\obj\Debug\showEmployee.baml
+C:\Users\PC\Desktop\merge11\WpfApp\WpfApp\obj\Debug\ShowEmployeeBalance.baml
+C:\Users\PC\Desktop\merge11\WpfApp\WpfApp\obj\Debug\WpfApp.g.resources
+C:\Users\PC\Desktop\merge11\WpfApp\WpfApp\obj\Debug\WpfApp.Properties.Resources.resources
+C:\Users\PC\Desktop\merge11\WpfApp\WpfApp\obj\Debug\WpfApp.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\merge11\WpfApp\WpfApp\obj\Debug\WpfApp.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\merge11\WpfApp\WpfApp\obj\Debug\WpfApp.exe
+C:\Users\PC\Desktop\merge11\WpfApp\WpfApp\obj\Debug\WpfApp.pdb

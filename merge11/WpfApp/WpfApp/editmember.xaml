@@ -1,0 +1,142 @@
+﻿<Window x:Class="WpfApp.editmember"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp"
+        mc:Ignorable="d"
+        Title="editmember" Height="670" Width="500"
+        WindowStyle="None" ResizeMode="NoResize"
+        WindowStartupLocation="CenterScreen"
+        Background="#bf00ff">
+    <Grid>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="2*"/>
+                <RowDefinition Height="2.6*"/>
+                <RowDefinition Height="2.5*"/>
+                <RowDefinition Height="2.5*"/>
+                <RowDefinition Height="1.5*"/>
+            </Grid.RowDefinitions>
+
+            <Border CornerRadius="11" Grid.RowSpan="5">
+                <Border.Background>
+                    <LinearGradientBrush>
+                        <GradientStop Color="#B879D4" Offset="0.0"></GradientStop>
+                        <GradientStop Color="#5256B7" Offset="1"></GradientStop>
+                    </LinearGradientBrush>
+                </Border.Background>
+                <Image/>
+            </Border>
+
+            <StackPanel Grid.Row="0">
+                <Button Name="btn" Click="btn_Click"                    
+                   
+                    Width="40" Height="40" 
+                    HorizontalAlignment="Right"
+                    VerticalAlignment="Top"
+                    Margin="200,0,0,0">
+                    <Button.Background>
+                        <ImageBrush x:Name="close" ImageSource="Close.png"/>
+                    </Button.Background>
+                    <Image Source="close.png"  
+                    Width="40"
+                    Height="40" IsManipulationEnabled="True"/>
+                </Button>
+            </StackPanel>
+
+
+            <StackPanel Grid.Row="0" VerticalAlignment="Center" Margin="0">
+                <Image x:Name="image" Source="edit.png" Margin="205,-100,220,-200" RenderTransformOrigin="0.5,0.5" Height="164">
+                    <Image.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform/>
+                            <SkewTransform/>
+                            <RotateTransform Angle="-0.011"/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </Image.RenderTransform>
+                </Image>
+                <TextBlock x:Name="title3" Text="Editinformation"
+                         FontFamily="helvetica" FontSize="30"
+                         Foreground="White" HorizontalAlignment="Center" Margin="0,80,0,-10"/>
+            </StackPanel>
+
+            <StackPanel  Grid.Row="2" VerticalAlignment="Center"  Margin="0">
+                <TextBlock x:Name="name3" Text="Name"
+                         FontFamily="helvetica" FontSize="15"
+                         Foreground="White" HorizontalAlignment="Left" Margin="15,-45,0,150"/>
+
+            </StackPanel>
+
+            <StackPanel  Grid.Row="2" VerticalAlignment="Center"  Margin="0">
+                <TextBox x:Name="nameemployee2" Margin="15,-68,40,60"  />
+            </StackPanel>
+
+            <StackPanel  Grid.Row="2" VerticalAlignment="Center"  Margin="0">
+                <TextBlock x:Name="family3" Text="Family"
+                         FontFamily="helvetica" FontSize="15"
+                         Foreground="White" HorizontalAlignment="Left" Margin="15,80,0,150"/>
+
+            </StackPanel>
+
+            <StackPanel  Grid.Row="2" VerticalAlignment="Center"  Margin="0">
+                <TextBox x:Name="familyemployee2" Margin="15,40,40,60"  />
+            </StackPanel>
+
+            <StackPanel  Grid.Row="2" VerticalAlignment="Center"  Margin="0">
+                <TextBlock x:Name="email2" Text="Email"
+                         FontFamily="helvetica" FontSize="15"
+                         Foreground="White" HorizontalAlignment="Left" Margin="15,185,0,150"/>
+
+            </StackPanel>
+
+            <StackPanel  Grid.Row="2" VerticalAlignment="Center"  Margin="0">
+                <TextBox x:Name="emailemployee2" Margin="15,155,40,60" />
+            </StackPanel>
+
+            <StackPanel  Grid.Row="3" VerticalAlignment="Center"  Margin="0">
+                <TextBlock x:Name="phone" Text="Phone"
+                         FontFamily="helvetica" FontSize="15"
+                         Foreground="White" HorizontalAlignment="Left" Margin="15,15,0,150"/>
+
+            </StackPanel>
+
+            <StackPanel  Grid.Row="3" VerticalAlignment="Center"  Margin="0">
+                <TextBox x:Name="phoneemployee2" Margin="15,-18,40,60"  />
+            </StackPanel>
+
+            <StackPanel  Grid.Row="3" VerticalAlignment="Center"  Margin="0">
+                <TextBlock x:Name="password" Text="Password"
+                         FontFamily="helvetica" FontSize="15"
+                         Foreground="White" HorizontalAlignment="Left" Margin="15,170,0,150"/>
+
+            </StackPanel>
+
+            <StackPanel  Grid.Row="3" VerticalAlignment="Center"  Margin="0">
+                <PasswordBox x:Name="passwordem" Margin="15,135,40,60" />
+            </StackPanel>
+
+
+            <StackPanel  Grid.Row="4" VerticalAlignment="Center"  Margin="0">
+                <Button x:Name="edit" Content="Editinfo" Margin="20,-5,20,10" Height="40" Width="300" Foreground="White" Click="edit_Click"   >
+                    <Button.Background>
+                        <ImageBrush ImageSource="button.png"/>
+                    </Button.Background>
+                </Button>
+            </StackPanel>
+
+            <StackPanel Grid.Row="1" VerticalAlignment="Center"  Margin="0" >
+                <Button x:Name="upload" Content="Upload" Margin="210,40,210,10" Height="40" Width="80" Foreground="White" Click="upload_Click" RenderTransformOrigin="0.562,0.583"  >
+                    <Button.Background>
+                        <ImageBrush ImageSource="button.png"/>
+                    </Button.Background>
+                </Button>
+            </StackPanel>
+            <StackPanel Grid.Row="1" VerticalAlignment="Center"  Margin="0" >
+                <Image x:Name="picture"  Margin="220,-280,220,-200" RenderTransformOrigin="0.5,0.5" Height="90"/>
+            </StackPanel>
+
+        </Grid>
+    </Grid>
+</Window>
